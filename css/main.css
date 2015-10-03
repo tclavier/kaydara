@@ -2,8 +2,22 @@ body {
   background-image: url("/img/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: "Lobster Two";
+  font-size: 18px;
 }
 
 .container {
   background-color: #ffffff;
 }
+
+@font-face {
+  font-family: "Lobster Two";
+  src: url('/fonts/LobsterTwo-Regular.ttf');
+}
+
+@font-face {
+  font-family: "Lobster Two";
+  font-style: italic;
+  src: url('/fonts/LobsterTwo-Italic.ttf');
+}
+
