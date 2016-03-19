@@ -8,3 +8,5 @@ url: "http://kaydara.fr" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+host: 0.0.0.0
+ 

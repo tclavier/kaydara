@@ -21,3 +21,8 @@ body {
   src: url('/fonts/LobsterTwo-Italic.ttf');
 }
 
+footer {
+  background-color: #6fa8d3;
+  position: absolute; 
+  bottom: 0;
+}
